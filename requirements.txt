@@ -1,0 +1,17 @@
+# requirements.txt
+Django
+djangorestframework
+django-cors-headers
+gunicorn
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+python-dotenv
+drf-yasg
+django-ratelimit
+django-redis
+whitenoise
+sentry-sdk
